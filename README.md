@@ -1,658 +1,86 @@
-Contribution: 2021-06-02 00:00
-
-Contribution: 2021-06-02 00:01
-
-Contribution: 2021-06-02 00:02
-
-Contribution: 2021-06-02 00:03
-
-Contribution: 2021-06-02 00:04
-
-Contribution: 2021-06-02 00:05
-
-Contribution: 2021-06-02 00:06
-
-Contribution: 2021-06-07 00:00
-
-Contribution: 2021-06-07 00:01
-
-Contribution: 2021-06-09 00:00
-
-Contribution: 2021-06-09 00:01
-
-Contribution: 2021-06-09 00:02
-
-Contribution: 2021-06-09 00:03
-
-Contribution: 2021-06-09 00:04
-
-Contribution: 2021-06-09 00:05
-
-Contribution: 2021-06-09 00:06
-
-Contribution: 2021-06-09 00:07
-
-Contribution: 2021-06-09 00:08
-
-Contribution: 2021-06-09 00:09
-
-Contribution: 2021-06-10 00:00
-
-Contribution: 2021-06-10 00:01
-
-Contribution: 2021-06-10 00:02
-
-Contribution: 2021-06-10 00:03
-
-Contribution: 2021-06-10 00:04
-
-Contribution: 2021-06-10 00:05
-
-Contribution: 2021-06-10 00:06
-
-Contribution: 2021-06-14 00:00
-
-Contribution: 2021-06-17 00:00
-
-Contribution: 2021-06-17 00:01
-
-Contribution: 2021-06-17 00:02
-
-Contribution: 2021-06-17 00:03
-
-Contribution: 2021-06-18 00:00
-
-Contribution: 2021-06-18 00:01
-
-Contribution: 2021-06-21 00:00
-
-Contribution: 2021-06-21 00:01
-
-Contribution: 2021-06-21 00:02
-
-Contribution: 2021-06-21 00:03
-
-Contribution: 2021-06-21 00:04
-
-Contribution: 2021-06-22 00:00
-
-Contribution: 2021-06-22 00:01
-
-Contribution: 2021-06-22 00:02
-
-Contribution: 2021-06-22 00:03
-
-Contribution: 2021-06-22 00:04
-
-Contribution: 2021-06-22 00:05
-
-Contribution: 2021-06-29 00:00
-
-Contribution: 2021-06-29 00:01
-
-Contribution: 2021-06-29 00:02
-
-Contribution: 2021-06-29 00:03
-
-Contribution: 2021-06-30 00:00
-
-Contribution: 2021-06-30 00:01
-
-Contribution: 2021-06-30 00:02
-
-Contribution: 2021-06-30 00:03
-
-Contribution: 2021-06-30 00:04
-
-Contribution: 2021-06-30 00:05
-
-Contribution: 2021-06-30 00:06
-
-Contribution: 2021-06-30 00:07
-
-Contribution: 2021-06-30 00:08
-
-Contribution: 2021-06-30 00:09
-
-Contribution: 2021-07-01 00:00
-
-Contribution: 2021-07-01 00:01
-
-Contribution: 2021-07-01 00:02
-
-Contribution: 2021-07-01 00:03
-
-Contribution: 2021-07-01 00:04
-
-Contribution: 2021-07-01 00:05
-
-Contribution: 2021-07-01 00:06
-
-Contribution: 2021-07-01 00:07
-
-Contribution: 2021-07-01 00:08
-
-Contribution: 2021-07-09 00:00
-
-Contribution: 2021-07-09 00:01
-
-Contribution: 2021-07-09 00:02
-
-Contribution: 2021-07-09 00:03
-
-Contribution: 2021-07-09 00:04
-
-Contribution: 2021-07-09 00:05
-
-Contribution: 2021-07-09 00:06
-
-Contribution: 2021-07-09 00:07
-
-Contribution: 2021-07-09 00:08
-
-Contribution: 2021-07-12 00:00
-
-Contribution: 2021-07-12 00:01
-
-Contribution: 2021-07-12 00:02
-
-Contribution: 2021-07-12 00:03
-
-Contribution: 2021-07-12 00:04
-
-Contribution: 2021-07-12 00:05
-
-Contribution: 2021-07-12 00:06
-
-Contribution: 2021-07-12 00:07
-
-Contribution: 2021-07-12 00:08
-
-Contribution: 2021-07-16 00:00
-
-Contribution: 2021-07-16 00:01
-
-Contribution: 2021-07-21 00:00
-
-Contribution: 2021-07-21 00:01
-
-Contribution: 2021-07-21 00:02
-
-Contribution: 2021-07-21 00:03
-
-Contribution: 2021-07-21 00:04
-
-Contribution: 2021-07-21 00:05
-
-Contribution: 2021-07-21 00:06
-
-Contribution: 2021-07-22 00:00
-
-Contribution: 2021-07-22 00:01
-
-Contribution: 2021-07-26 00:00
-
-Contribution: 2021-07-26 00:01
-
-Contribution: 2021-07-26 00:02
-
-Contribution: 2021-07-26 00:03
-
-Contribution: 2021-07-26 00:04
-
-Contribution: 2021-07-27 00:00
-
-Contribution: 2021-07-27 00:01
-
-Contribution: 2021-07-27 00:02
-
-Contribution: 2021-07-27 00:03
-
-Contribution: 2021-07-27 00:04
-
-Contribution: 2021-07-27 00:05
-
-Contribution: 2021-07-27 00:06
-
-Contribution: 2021-07-27 00:07
-
-Contribution: 2021-07-28 00:00
-
-Contribution: 2021-07-28 00:01
-
-Contribution: 2021-07-28 00:02
-
-Contribution: 2021-07-28 00:03
-
-Contribution: 2021-07-29 00:00
-
-Contribution: 2021-07-29 00:01
-
-Contribution: 2021-07-29 00:02
-
-Contribution: 2021-07-29 00:03
-
-Contribution: 2021-07-29 00:04
-
-Contribution: 2021-07-29 00:05
-
-Contribution: 2021-07-29 00:06
-
-Contribution: 2021-07-29 00:07
-
-Contribution: 2021-07-29 00:08
-
-Contribution: 2021-07-30 00:00
-
-Contribution: 2021-07-30 00:01
-
-Contribution: 2021-07-30 00:02
-
-Contribution: 2021-07-30 00:03
-
-Contribution: 2021-08-03 00:00
-
-Contribution: 2021-08-03 00:01
-
-Contribution: 2021-08-06 00:00
-
-Contribution: 2021-08-06 00:01
-
-Contribution: 2021-08-06 00:02
-
-Contribution: 2021-08-06 00:03
-
-Contribution: 2021-08-06 00:04
-
-Contribution: 2021-08-06 00:05
-
-Contribution: 2021-08-06 00:06
-
-Contribution: 2021-08-09 00:00
-
-Contribution: 2021-08-09 00:01
-
-Contribution: 2021-08-09 00:02
-
-Contribution: 2021-08-09 00:03
-
-Contribution: 2021-08-09 00:04
-
-Contribution: 2021-08-09 00:05
-
-Contribution: 2021-08-09 00:06
-
-Contribution: 2021-08-12 00:00
-
-Contribution: 2021-08-12 00:01
-
-Contribution: 2021-08-12 00:02
-
-Contribution: 2021-08-12 00:03
-
-Contribution: 2021-08-12 00:04
-
-Contribution: 2021-08-12 00:05
-
-Contribution: 2021-08-12 00:06
-
-Contribution: 2021-08-12 00:07
-
-Contribution: 2021-08-13 00:00
-
-Contribution: 2021-08-13 00:01
-
-Contribution: 2021-08-13 00:02
-
-Contribution: 2021-08-13 00:03
-
-Contribution: 2021-08-17 00:00
-
-Contribution: 2021-08-17 00:01
-
-Contribution: 2021-08-18 00:00
-
-Contribution: 2021-08-18 00:01
-
-Contribution: 2021-08-18 00:02
-
-Contribution: 2021-08-18 00:03
-
-Contribution: 2021-08-18 00:04
-
-Contribution: 2021-08-18 00:05
-
-Contribution: 2021-08-18 00:06
-
-Contribution: 2021-08-18 00:07
-
-Contribution: 2021-08-18 00:08
-
-Contribution: 2021-08-24 00:00
-
-Contribution: 2021-08-24 00:01
-
-Contribution: 2021-08-24 00:02
-
-Contribution: 2021-08-24 00:03
-
-Contribution: 2021-08-24 00:04
-
-Contribution: 2021-08-26 00:00
-
-Contribution: 2021-08-26 00:01
-
-Contribution: 2021-08-26 00:02
-
-Contribution: 2021-08-26 00:03
-
-Contribution: 2021-08-26 00:04
-
-Contribution: 2021-08-26 00:05
-
-Contribution: 2021-08-26 00:06
-
-Contribution: 2021-08-26 00:07
-
-Contribution: 2021-08-26 00:08
-
-Contribution: 2021-08-30 00:00
-
-Contribution: 2021-08-30 00:01
-
-Contribution: 2021-08-30 00:02
-
-Contribution: 2021-08-30 00:03
-
-Contribution: 2021-08-30 00:04
-
-Contribution: 2021-08-30 00:05
-
-Contribution: 2021-08-30 00:06
-
-Contribution: 2021-08-30 00:07
-
-Contribution: 2021-08-30 00:08
-
-Contribution: 2021-09-01 00:00
-
-Contribution: 2021-09-01 00:01
-
-Contribution: 2021-09-01 00:02
-
-Contribution: 2021-09-01 00:03
-
-Contribution: 2021-09-01 00:04
-
-Contribution: 2021-09-01 00:05
-
-Contribution: 2021-09-02 00:00
-
-Contribution: 2021-09-02 00:01
-
-Contribution: 2021-09-03 00:00
-
-Contribution: 2021-09-03 00:01
-
-Contribution: 2021-09-03 00:02
-
-Contribution: 2021-09-03 00:03
-
-Contribution: 2021-09-03 00:04
-
-Contribution: 2021-09-03 00:05
-
-Contribution: 2021-09-03 00:06
-
-Contribution: 2021-09-03 00:07
-
-Contribution: 2021-09-06 00:00
-
-Contribution: 2021-09-06 00:01
-
-Contribution: 2021-09-06 00:02
-
-Contribution: 2021-09-06 00:03
-
-Contribution: 2021-09-06 00:04
-
-Contribution: 2021-09-06 00:05
-
-Contribution: 2021-09-06 00:06
-
-Contribution: 2021-09-07 00:00
-
-Contribution: 2021-09-07 00:01
-
-Contribution: 2021-09-07 00:02
-
-Contribution: 2021-09-07 00:03
-
-Contribution: 2021-09-07 00:04
-
-Contribution: 2021-09-07 00:05
-
-Contribution: 2021-09-07 00:06
-
-Contribution: 2021-09-07 00:07
-
-Contribution: 2021-09-07 00:08
-
-Contribution: 2021-09-08 00:00
-
-Contribution: 2021-09-08 00:01
-
-Contribution: 2021-09-08 00:02
-
-Contribution: 2021-09-08 00:03
-
-Contribution: 2021-09-08 00:04
-
-Contribution: 2021-09-08 00:05
-
-Contribution: 2021-09-08 00:06
-
-Contribution: 2021-09-10 00:00
-
-Contribution: 2021-09-10 00:01
-
-Contribution: 2021-09-10 00:02
-
-Contribution: 2021-09-10 00:03
-
-Contribution: 2021-09-13 00:00
-
-Contribution: 2021-09-13 00:01
-
-Contribution: 2021-09-13 00:02
-
-Contribution: 2021-09-13 00:03
-
-Contribution: 2021-09-13 00:04
-
-Contribution: 2021-09-13 00:05
-
-Contribution: 2021-09-13 00:06
-
-Contribution: 2021-09-13 00:07
-
-Contribution: 2021-09-13 00:08
-
-Contribution: 2021-09-14 00:00
-
-Contribution: 2021-09-14 00:01
-
-Contribution: 2021-09-14 00:02
-
-Contribution: 2021-09-14 00:03
-
-Contribution: 2021-09-14 00:04
-
-Contribution: 2021-09-14 00:05
-
-Contribution: 2021-09-14 00:06
-
-Contribution: 2021-09-16 00:00
-
-Contribution: 2021-09-16 00:01
-
-Contribution: 2021-09-17 00:00
-
-Contribution: 2021-09-17 00:01
-
-Contribution: 2021-09-17 00:02
-
-Contribution: 2021-09-17 00:03
-
-Contribution: 2021-09-17 00:04
-
-Contribution: 2021-09-17 00:05
-
-Contribution: 2021-09-17 00:06
-
-Contribution: 2021-09-17 00:07
-
-Contribution: 2021-09-17 00:08
-
-Contribution: 2021-09-20 00:00
-
-Contribution: 2021-09-20 00:01
-
-Contribution: 2021-09-20 00:02
-
-Contribution: 2021-09-20 00:03
-
-Contribution: 2021-09-20 00:04
-
-Contribution: 2021-09-20 00:05
-
-Contribution: 2021-09-20 00:06
-
-Contribution: 2021-09-20 00:07
-
-Contribution: 2021-09-20 00:08
-
-Contribution: 2021-09-23 00:00
-
-Contribution: 2021-09-23 00:01
-
-Contribution: 2021-09-23 00:02
-
-Contribution: 2021-09-23 00:03
-
-Contribution: 2021-09-23 00:04
-
-Contribution: 2021-09-23 00:05
-
-Contribution: 2021-09-23 00:06
-
-Contribution: 2021-09-24 00:00
-
-Contribution: 2021-09-24 00:01
-
-Contribution: 2021-09-24 00:02
-
-Contribution: 2021-09-27 00:00
-
-Contribution: 2021-09-27 00:01
-
-Contribution: 2021-09-27 00:02
-
-Contribution: 2021-09-27 00:03
-
-Contribution: 2021-09-27 00:04
-
-Contribution: 2021-09-27 00:05
-
-Contribution: 2021-10-05 00:00
-
-Contribution: 2021-10-08 00:00
-
-Contribution: 2021-10-08 00:01
-
-Contribution: 2021-10-08 00:02
-
-Contribution: 2021-10-08 00:03
-
-Contribution: 2021-10-08 00:04
-
-Contribution: 2021-10-08 00:05
-
-Contribution: 2021-10-08 00:06
-
-Contribution: 2021-10-08 00:07
-
-Contribution: 2021-10-08 00:08
-
-Contribution: 2021-10-08 00:09
-
-Contribution: 2021-10-13 00:00
-
-Contribution: 2021-10-13 00:01
-
-Contribution: 2021-10-13 00:02
-
-Contribution: 2021-10-13 00:03
-
-Contribution: 2021-10-13 00:04
-
-Contribution: 2021-10-13 00:05
-
-Contribution: 2021-10-15 00:00
-
-Contribution: 2021-10-15 00:01
-
-Contribution: 2021-10-18 00:00
-
-Contribution: 2021-10-18 00:01
-
-Contribution: 2021-10-18 00:02
-
-Contribution: 2021-10-19 00:00
-
-Contribution: 2021-10-19 00:01
-
-Contribution: 2021-10-19 00:02
-
-Contribution: 2021-10-19 00:03
-
-Contribution: 2021-10-20 00:00
-
-Contribution: 2021-10-20 00:01
-
-Contribution: 2021-10-21 00:00
-
-Contribution: 2021-10-21 00:01
-
-Contribution: 2021-10-21 00:02
-
-Contribution: 2021-10-21 00:03
-
-Contribution: 2021-10-21 00:04
-
-Contribution: 2021-10-21 00:05
-
-Contribution: 2021-10-22 00:00
-
-Contribution: 2021-10-22 00:01
-
-Contribution: 2021-10-22 00:02
-
-Contribution: 2021-10-22 00:03
-
-Contribution: 2021-10-22 00:04
-
-Contribution: 2021-10-22 00:05
-
-Contribution: 2021-10-22 00:06
-
-Contribution: 2021-10-25 00:00
-
-Contribution: 2021-10-25 00:01
-
-Contribution: 2021-10-25 00:02
-
-Contribution: 2021-10-25 00:03
-
-Contribution: 2021-10-25 00:04
-
+A large portion of this boilerplate was built at the guidance of this article: https://prestonrichey.com/blog/react-rust-wasm/
+
+## Getting Started
+
+#### Clone Repo
+```
+git clone https://github.com/robtaussig/React-WASM-boilerplate
+
+cd React-WASM-boilerplate
+```
+
+#### Install npm dependencies
+```
+npm install
+```
+
+#### Setup Rust
+This can take a while and might appear to have hung if none of the dependencies have been installed to your machine before.
+```
+npm run setup-rust
+```
+
+#### Build initial WASM files
+```
+npm run build-wasm
+```
+
+#### Link WASM files
+```
+npm run link-wasm
+```
+
+#### Start app
+```
+npm start
+```
+
+## Writing Rust code
+With the code below, wasm.greet will be available in javascript. All changes must be compiled with `npm run build-wasm` before reflecting in the client.
+
+```
+//wasm/src/lib
+
+#[wasm_bindgen]
+extern {
+    fn alert(s: &str);
+}
+
+#[wasm_bindgen]
+pub fn greet() {
+    alert("👋 from Wasm");
+}
+```
+
+## Using from Javascript
+The wasm object to be used must be fetched and compiled asyncronously, and thus is not immediately available at runtime. With a basic custom hook, and using React's context API, we build the wasm object at the parent component level, and pass it down via context. It is advisable to defer rendering children until it is ready.
+
+```
+import React from 'react';
+import { useWasm, useLoadedWasm, WASM_READY_STATE } from './useWasm';
+
+const App = () => {
+  const [WasmProvider, wasmObject] = useWasm();
+
+  return (
+    <WasmProvider value={wasmObject}>
+      <div id="App">
+        {wasmObject.readyState === WASM_READY_STATE.READY && <TestComponent/>}
+      </div>
+    </WasmProvider>
+  );
+};
+
+const TestComponent = () => {
+  const { wasm, readyState } = useLoadedWasm();
+
+  return (
+    <div>
+      <button onClick={wasm.greet}>Click</button>
+    </div>
+  );
+};
+
+```
+## Developing
+Changes to your javascript code will hot-reload your app if it's running -- otherwise they will be built at the `npm start` command. Changes to your Rust code must be compiled to wasm before they are accessible to the client. This must be done manually with `npm run build-wasm`.
